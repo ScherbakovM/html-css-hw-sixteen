@@ -1,4 +1,4 @@
-*Адаптивный макет интернет магазина*  
+**Адаптивный макет интернет магазина**
 ![image](https://github.com/ScherbakovM/html-css-hw-sixteen/assets/109952823/fe2c6ab7-bea6-4729-bc31-c6b344fe75bd)
 
 Макет по шаблону из [figma](https://www.figma.com/file/mnLY69cYE5cqWM5w6n5hXx/Seo-%26-Digital-Marketing-Landing-Page?type=design&node-id=190-1194&mode=design&t=g8Qzd5ptNTLbZIgX-0)
